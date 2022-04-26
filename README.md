@@ -1,2 +1,8 @@
-# IMU-Lib
-6-axis IMU library, include matrix library, kalman filter, smooth filter and IIR filter, using Mahony AHRS algorithm.
+# IMU解算库
+六轴陀螺仪姿态解算库
+
+## 文件说明
+
+- document：说明文档
+- example：示例程序
+- library：解算库源码
